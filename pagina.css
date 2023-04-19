@@ -1,0 +1,67 @@
+
+.bg{
+   background-image: url(ellie.png);
+   background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+#last{
+   width: 500px;
+
+}
+.caixa{
+  position: relative;
+  width: 940px;
+  margin:0 auto;
+}
+nav li{
+   display: inline-block;
+}
+.vagalume{
+  text-align: center;
+  font-size: 50px;
+  color: white;
+}
+#fedra{
+   width: 50%;
+}
+ #menina{
+   width: 50%;
+   display: inline-block;
+}
+  #missao{
+  font-size: 20px;
+  color: #FFD700;
+  display: inline-block;
+}
+.beneficios{
+  font-style: italic;
+  font-size: 35px;
+  text-align: inherit;
+  color: #4169E1;
+
+  }
+  #benefits{
+  width: 15%;
+
+}
+.bonita{
+   background: black;
+}
+nav li{
+   display: inline;
+  margin: 0 0 0 15px;
+  color: white;
+}
+
+
+nav a{
+  text-transform: uppercase;
+  color: white;
+
+}
+nav a:hover{
+  color: #6B8E23;
+  text-decoration: underline;
+}
